@@ -1,0 +1,1 @@
+<hr><p>This is a simple footer</p><hr>
